@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{E23A5D11-10C1-1FFD-8799-3546573B7315}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Skripts/SkriptiTuchek/CerklPlatformVrashenie.cs">
+    <Files>
+      <File FileName="Assets/Skripts/PlayerMoov.cs" Line="51" Column="16" />
+      <File FileName="Assets/Skripts/DaySpaisMetkaPravala.cs" Line="16" Column="1" />
+      <File FileName="Assets/Skripts/SkriptiTuchek/CerklPlatformVrashenie.cs" Line="35" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="86f29979-4b60-4155-993c-e30c296948f3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
